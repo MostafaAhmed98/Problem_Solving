@@ -6,5 +6,5 @@ This repository serves as a portfolio showcasing my practical application of Pyt
 "Mastering 4 Critical SKILLS using Python" course.
 
 It features solutions to a variety of problems, primarily focusing on solidifying comprehension and application of fundamental
-programming concepts like loops, strings, arrays, and functions.
+programming concepts like classes, loops, strings, arrays, functions etc...
 ```
